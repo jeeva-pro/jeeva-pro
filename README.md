@@ -26,7 +26,7 @@ philosophy : "If you crack the system, first understand the system."
 - 🌱 Learning and growing every day — consistency is key
 - 💡 Passionate about creating solutions that solve real-world problems
 - 🤝 Open to **collaborations**, **internships**, and **opportunities**
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/jeeva-pro)** · **[Email](mailto:mr.jeevaofficial2024@email.com)**
+- 📫 Reach me at: **[LinkedIn](www.linkedin.com/in/jeeva-b-it-me)** · **[Email](mailto:mr.jeevaofficial2024@email.com)**
 
 ---
 
@@ -96,9 +96,9 @@ philosophy : "If you crack the system, first understand the system."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeva-pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeeva-b-it-me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeva-pro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.jeevaofficial2024@email.com)
 
 </div>
 

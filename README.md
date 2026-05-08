@@ -70,16 +70,7 @@ philosophy : "If you crack the system, first understand the system."
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeeva-pro&show_icons=true&theme=github_dark&border_color=30363d&title_color=58A6FF&icon_color=58A6FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-pro&layout=compact&theme=github_dark&border_color=30363d&title_color=58A6FF" height="165"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeeva-pro&theme=github-dark-blue&border=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
 
 ---
 

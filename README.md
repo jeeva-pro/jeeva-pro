@@ -26,7 +26,7 @@ philosophy : "If you crack the system, first understand the system."
 - 🌱 Learning and growing every day — consistency is key
 - 💡 Passionate about creating solutions that solve real-world problems
 - 🤝 Open to **collaborations**, **internships**, and **opportunities**
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/jeeva-pro)** · **[Email](mailto:your@email.com)**
+- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/jeeva-pro)** · **[Email](mailto:mr.jeevaofficial2024@email.com)**
 
 ---
 

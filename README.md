@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm B.Jeeva 👋
 
-<!--
-**jeeva-pro/jeeva-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Full Stack Developer  
+🤖 AI & Machine Learning Enthusiast  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Python
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Mock Interview System
+- Crypto Live Tracker
+- Face Detection
+- OTT Clone
+
+## Contact
+- LinkedIn
+- Email
